@@ -1,0 +1,147 @@
+#1
+
+mkdir lab0
+cd lab0
+mkdir butterfree3
+cd butterfree3
+touch larvitar
+mkdir bibarel
+touch boldore
+touch typhlosion
+cd ..
+mkdir flygon7
+cd flygon7
+mkdir eelektross
+touch bellsprout
+touch cleffa
+touch combusken
+touch kabuto
+touch flaaffy
+cd ..
+touch gigalith3
+touch golem3
+touch shieldon3
+mkdir vaporeon0
+cd vaporeon0
+touch roggenrola
+touch oddish
+mkdir garbodor
+touch golurk
+mkdir froslass
+cd ..
+cd butterfree3
+echo "Ходы  Ancientpower Body Slam Dark Pulse Double-Edge Earth
+Power Iron Defense Iron Head Iron Tail Mud-Slap Outrage Sleep Talk
+Snore Spite Stealth Rock Superpower Uproar" >> larvitar
+echo "Возможности
+Overland=3 Jump=1 Power=4 Intelligence=4
+Sinker=0" >> boldore
+echo "Способности Smokescreen Ember Quick Attack Flame
+Wheel Defense Curl Swift Flame Charge Lava Plume Flamethrower Rollout
+Double-Edge Eruption" >> typhlosion
+cd ..
+cd flygon7
+echo "Ходы Bind Double-Edge Gastro Acid
+Giga Drain Knock Off Secret Power Seed Bomb Sleep Talk Snore Sucker
+Punch Synthesis Worry Seed" >> bellsprout
+echo "satk=5 sdef=6
+spd=2" >> cleffa
+echo "satk=9 sdef=6 spd=6" >> combusken
+echo "Ходы Ancientpower Body
+Slam Brine Double-Edge Earth Power Giga Drain Icy Wind Iron Defense
+Knock Off Rollout Sleep Talk Snore Stealth Rock Water
+Pulse" >> kabuto
+echo "Способности  Overcharge Static Cute
+Charm" >> flaaffy
+cd ..
+echo "weight=573.2 height=67.0 atk=14 def=13" >> gigalith3
+echo "Тип
+диеты  Terravore" >> golem3
+echo "Возможности  Overland=4 Jump=3 Power=3
+Intelligence=3 Sinker=0" >> shieldon3
+cd vaporeon0
+echo "Тип покемона  ROCK
+NONE" >> roggenrola
+echo "satk=8 sdef=7 spd=3" >> oddish
+echo "Развитые способности  No
+Guard" >> golurk
+
+#2
+
+cd..
+chmod u=rx,g=wx,o=rwx butterfree3
+cd butterfree3
+chmod u=r,g=,o=r larvitar
+chmod u=wx,g=x,o=x bibarel
+chmod 444 boldore
+chmod u=rw,g=,o= typhlosion
+cd ..
+chmod u=wx,g=rwx,o=rx flygon7
+cd flygon7
+chmod u=rwx,g=r-x,o=-w- eelektross
+chmod u=rw-,g=-w-,o= bellsprout
+chmod u=rw-,g=-w-,o=r-- cleffa
+chmod 444 combusken
+chmod u=,g=,o=r kabuto
+chmod u=rw,g=w,o= flaaffy
+cd ..
+chmod u=,g=rw,o=w gigalith3
+chmod u=,g=r,o=r golem3
+chmod u=,g=,o=r shieldon3
+chmod u=rwx,g=rx,o=w vaporeon0
+cd vaporeon0
+chmod u=r,g=r,o=r roggenrola
+chmod u=r,g=,o=r oddish
+chmod 550 garbodor
+chmod 046 golurk
+chmod 751 froslass
+
+#3
+
+ln gigalith3 flygon7/cleffagigalith
+ln -s flygon7 Copy_98
+ln -s golem3 flygon7/flaaffygolem
+cd vaporeon0
+chmod u=rwx,g=rwx,o=rwx garbodor
+chmod u=rwx,g=rwx,o=rwx froslass
+chmod u=rwx,g=rwx,o=rwx golurk
+chmod u=rwx,g=rwx,o=rwx oddish
+chmod u=rwx,g=rwx,o=rwx roggenrola
+cd ..
+cp -R vaporeon0 vaporeon0/garbodor
+chmod u=rwx,g=rwx,o=rwx shieldon3
+cp shieldon3 vaporeon0/garbodor
+cat butterfree3/larvitar flygon7/combusken > golem3_94
+cat shieldon3>flygon7/cleffashieldon
+
+
+#4
+
+wc -l **/*r | sort -n -r 2>/dev/null
+ls -R -u -l 2>/dev/null | grep *ga* | head -n 2 
+cat -n shieldon3 | grep -i *e
+cd flygon7 
+cat combusken kabuto flaaffy | grep *me*
+cd ..
+ls -R -t c* | head -n 3
+cd flygon7
+wc -l **/* | sort -n -r
+
+
+#5 
+
+cd ..
+rm golem3
+rm flygon7/combusken
+rm Copy_*
+rm flygon7/cleffagigali*
+chmod u=rwx,g=rwx,o=twx flygon7
+rm -r flygon7
+
+
+
+
+
+
+
+

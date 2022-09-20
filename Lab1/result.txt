@@ -1,0 +1,478 @@
+total 23
+dr-x-wxrwx  3 s373330  studs    6 16 сент. 11:50 butterfree3
+----rw--w-  1 s373330  studs   39 16 сент. 12:34 gigalith3
+-rw-r--r--  1 s373330  studs  192 16 сент. 15:35 golem3_94
+-rwxrwxrwx  1 s373330  studs   74 16 сент. 12:37 shieldon3
+drwxr-x-w-  4 s373330  studs    7 16 сент. 11:57 vaporeon0
+
+./butterfree3:
+total 10
+d-wx--x--x  2 s373330  studs    2 16 сент. 11:50 bibarel
+-r--r--r--  1 s373330  studs   73 16 сент. 12:04 boldore
+-r-----r--  1 s373330  studs  172 16 сент. 12:03 larvitar
+-rw-------  1 s373330  studs  151 16 сент. 12:07 typhlosion
+
+./butterfree3/bibarel:
+total 0
+ls: ./butterfree3/bibarel: Permission denied
+
+./vaporeon0:
+total 3
+drwxrwxrwx  2 s373330  studs   2 16 сент. 11:57 froslass
+drwxrwxrwx  3 s373330  studs   4 20 сент. 16:53 garbodor
+-rwxrwxrwx  1 s373330  studs  50 16 сент. 12:42 golurk
+-rwxrwxrwx  1 s373330  studs  20 16 сент. 12:41 oddish
+-rwxrwxrwx  1 s373330  studs  35 16 сент. 12:41 roggenrola
+
+./vaporeon0/froslass:
+total 0
+
+./vaporeon0/garbodor:
+total 9
+-rwxr-xr-x  1 s373330  studs  74 16 сент. 15:31 shieldon3
+drwxr-x---  4 s373330  studs   7 20 сент. 16:53 vaporeon0
+
+./vaporeon0/garbodor/vaporeon0:
+total 3
+drwxr-xr-x  2 s373330  studs   2 20 сент. 16:53 froslass
+drwxr-xr-x  3 s373330  studs   4 20 сент. 16:53 garbodor
+-rwxr-xr-x  1 s373330  studs  50 20 сент. 16:53 golurk
+-rwxr-xr-x  1 s373330  studs  20 20 сент. 16:53 oddish
+-rwxr-xr-x  1 s373330  studs  35 20 сент. 16:53 roggenrola
+
+./vaporeon0/garbodor/vaporeon0/froslass:
+total 0
+
+./vaporeon0/garbodor/vaporeon0/garbodor:
+total 9
+-rwxr-xr-x  1 s373330  studs  74 20 сент. 16:53 shieldon3
+drwxr-x---  4 s373330  studs   7 20 сент. 16:53 vaporeon0
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0:
+total 3
+drwxr-xr-x  2 s373330  studs   2 20 сент. 16:53 froslass
+drwxr-xr-x  3 s373330  studs   4 20 сент. 16:53 garbodor
+-rwxr-xr-x  1 s373330  studs  50 20 сент. 16:53 golurk
+-rwxr-xr-x  1 s373330  studs  20 20 сент. 16:53 oddish
+-rwxr-xr-x  1 s373330  studs  35 20 сент. 16:53 roggenrola
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/froslass:
+total 0
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor:
+total 9
+-rwxr-xr-x  1 s373330  studs  74 20 сент. 16:53 shieldon3
+drwxr-x---  4 s373330  studs   6 20 сент. 16:53 vaporeon0
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0:
+total 2
+drwxr-xr-x  2 s373330  studs   2 20 сент. 16:53 froslass
+drwxr-xr-x  3 s373330  studs   3 20 сент. 16:53 garbodor
+-rwxr-xr-x  1 s373330  studs  50 20 сент. 16:53 golurk
+-rwxr-xr-x  1 s373330  studs  20 20 сент. 16:53 oddish
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/froslass:
+total 0
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor:
+total 1
+drwxr-x---  4 s373330  studs  4 20 сент. 16:53 vaporeon0
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0:
+total 1
+drwxr-xr-x  2 s373330  studs  2 20 сент. 16:53 froslass
+drwxr-xr-x  3 s373330  studs  3 20 сент. 16:53 garbodor
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/froslass:
+total 0
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor:
+total 1
+drwxr-x---  3 s373330  studs  3 20 сент. 16:53 vaporeon0
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0:
+total 1
+drwxr-xr-x  3 s373330  studs  3 20 сент. 16:53 garbodor
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor:
+total 1
+drwxr-x---  3 s373330  studs  3 20 сент. 16:53 vaporeon0
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0:
+total 1
+drwxr-xr-x  3 s373330  studs  3 20 сент. 16:53 garbodor
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor:
+total 1
+drwxr-x---  3 s373330  studs  3 20 сент. 16:53 vaporeon0
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0:
+total 1
+drwxr-xr-x  3 s373330  studs  3 20 сент. 16:53 garbodor
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor:
+total 1
+drwxr-x---  3 s373330  studs  3 20 сент. 16:53 vaporeon0
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0:
+total 1
+drwxr-xr-x  3 s373330  studs  3 20 сент. 16:53 garbodor
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor:
+total 1
+drwxr-x---  3 s373330  studs  3 20 сент. 16:53 vaporeon0
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0:
+total 1
+drwxr-xr-x  3 s373330  studs  3 20 сент. 16:53 garbodor
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor:
+total 1
+drwxr-x---  3 s373330  studs  3 20 сент. 16:53 vaporeon0
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0:
+total 1
+drwxr-xr-x  3 s373330  studs  3 20 сент. 16:53 garbodor
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor:
+total 1
+drwxr-x---  3 s373330  studs  3 20 сент. 16:53 vaporeon0
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0:
+total 1
+drwxr-xr-x  3 s373330  studs  3 20 сент. 16:53 garbodor
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor:
+total 1
+drwxr-x---  3 s373330  studs  3 20 сент. 16:53 vaporeon0
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0:
+total 1
+drwxr-xr-x  3 s373330  studs  3 20 сент. 16:53 garbodor
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor:
+total 1
+drwxr-x---  3 s373330  studs  3 20 сент. 16:53 vaporeon0
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0:
+total 1
+drwxr-xr-x  3 s373330  studs  3 20 сент. 16:53 garbodor
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor:
+total 1
+drwxr-x---  3 s373330  studs  3 20 сент. 16:53 vaporeon0
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0:
+total 1
+drwxr-xr-x  3 s373330  studs  3 20 сент. 16:53 garbodor
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor:
+total 1
+drwxr-x---  3 s373330  studs  3 20 сент. 16:53 vaporeon0
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0:
+total 1
+drwxr-xr-x  3 s373330  studs  3 20 сент. 16:53 garbodor
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor:
+total 1
+drwxr-x---  3 s373330  studs  3 20 сент. 16:53 vaporeon0
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0:
+total 1
+drwxr-xr-x  3 s373330  studs  3 20 сент. 16:53 garbodor
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor:
+total 1
+drwxr-x---  3 s373330  studs  3 20 сент. 16:53 vaporeon0
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0:
+total 1
+drwxr-xr-x  3 s373330  studs  3 20 сент. 16:53 garbodor
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor:
+total 1
+drwxr-x---  3 s373330  studs  3 20 сент. 16:53 vaporeon0
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0:
+total 1
+drwxr-xr-x  3 s373330  studs  3 20 сент. 16:53 garbodor
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor:
+total 1
+drwxr-x---  3 s373330  studs  3 20 сент. 16:53 vaporeon0
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0:
+total 1
+drwxr-xr-x  3 s373330  studs  3 20 сент. 16:53 garbodor
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor:
+total 1
+drwxr-x---  3 s373330  studs  3 20 сент. 16:53 vaporeon0
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0:
+total 1
+drwxr-xr-x  3 s373330  studs  3 20 сент. 16:53 garbodor
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor:
+total 1
+drwxr-x---  3 s373330  studs  3 20 сент. 16:53 vaporeon0
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0:
+total 1
+drwxr-xr-x  3 s373330  studs  3 20 сент. 16:53 garbodor
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor:
+total 1
+drwxr-x---  3 s373330  studs  3 20 сент. 16:53 vaporeon0
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0:
+total 1
+drwxr-xr-x  3 s373330  studs  3 20 сент. 16:53 garbodor
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor:
+total 1
+drwxr-x---  3 s373330  studs  3 20 сент. 16:53 vaporeon0
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0:
+total 1
+drwxr-xr-x  3 s373330  studs  3 20 сент. 16:53 garbodor
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor:
+total 1
+drwxr-x---  3 s373330  studs  3 20 сент. 16:53 vaporeon0
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0:
+total 1
+drwxr-xr-x  3 s373330  studs  3 20 сент. 16:53 garbodor
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor:
+total 1
+drwxr-x---  3 s373330  studs  3 20 сент. 16:53 vaporeon0
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0:
+total 1
+drwxr-xr-x  3 s373330  studs  3 20 сент. 16:53 garbodor
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor:
+total 1
+drwxr-x---  3 s373330  studs  3 20 сент. 16:53 vaporeon0
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0:
+total 1
+drwxr-xr-x  3 s373330  studs  3 20 сент. 16:53 garbodor
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor:
+total 1
+drwxr-x---  3 s373330  studs  3 20 сент. 16:53 vaporeon0
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0:
+total 1
+drwxr-xr-x  3 s373330  studs  3 20 сент. 16:53 garbodor
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor:
+total 1
+drwxr-x---  3 s373330  studs  3 20 сент. 16:53 vaporeon0
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0:
+total 1
+drwxr-xr-x  3 s373330  studs  3 20 сент. 16:53 garbodor
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor:
+total 1
+drwxr-x---  3 s373330  studs  3 20 сент. 16:53 vaporeon0
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0:
+total 1
+drwxr-xr-x  3 s373330  studs  3 20 сент. 16:53 garbodor
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor:
+total 1
+drwxr-x---  3 s373330  studs  3 20 сент. 16:53 vaporeon0
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0:
+total 1
+drwxr-xr-x  3 s373330  studs  3 20 сент. 16:53 garbodor
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor:
+total 1
+drwxr-x---  3 s373330  studs  3 20 сент. 16:53 vaporeon0
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0:
+total 1
+drwxr-xr-x  3 s373330  studs  3 20 сент. 16:53 garbodor
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor:
+total 1
+drwxr-x---  3 s373330  studs  3 20 сент. 16:53 vaporeon0
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0:
+total 1
+drwxr-xr-x  3 s373330  studs  3 20 сент. 16:53 garbodor
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor:
+total 1
+drwxr-x---  3 s373330  studs  3 20 сент. 16:53 vaporeon0
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0:
+total 1
+drwxr-xr-x  3 s373330  studs  3 20 сент. 16:53 garbodor
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor:
+total 1
+drwxr-x---  3 s373330  studs  3 20 сент. 16:53 vaporeon0
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0:
+total 1
+drwxr-xr-x  3 s373330  studs  3 20 сент. 16:53 garbodor
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor:
+total 1
+drwxr-x---  3 s373330  studs  3 20 сент. 16:53 vaporeon0
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0:
+total 1
+drwxr-xr-x  3 s373330  studs  3 20 сент. 16:53 garbodor
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor:
+total 1
+drwxr-x---  3 s373330  studs  3 20 сент. 16:53 vaporeon0
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0:
+total 1
+drwxr-xr-x  3 s373330  studs  3 20 сент. 16:53 garbodor
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor:
+total 1
+drwxr-x---  3 s373330  studs  3 20 сент. 16:53 vaporeon0
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0:
+total 1
+drwxr-xr-x  3 s373330  studs  3 20 сент. 16:53 garbodor
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor:
+total 1
+drwxr-x---  3 s373330  studs  3 20 сент. 16:53 vaporeon0
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0:
+total 1
+drwxr-xr-x  3 s373330  studs  3 20 сент. 16:53 garbodor
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor:
+total 1
+drwxr-x---  3 s373330  studs  3 20 сент. 16:53 vaporeon0
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0:
+total 1
+drwxr-xr-x  3 s373330  studs  3 20 сент. 16:53 garbodor
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor:
+total 1
+drwxr-x---  3 s373330  studs  3 20 сент. 16:53 vaporeon0
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0:
+total 1
+drwxr-xr-x  3 s373330  studs  3 20 сент. 16:53 garbodor
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor:
+total 1
+drwxr-x---  3 s373330  studs  3 20 сент. 16:53 vaporeon0
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0:
+total 1
+drwxr-xr-x  3 s373330  studs  3 20 сент. 16:53 garbodor
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor:
+total 1
+drwxr-x---  3 s373330  studs  3 20 сент. 16:53 vaporeon0
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0:
+total 1
+drwxr-xr-x  3 s373330  studs  3 20 сент. 16:53 garbodor
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor:
+total 1
+drwxr-x---  3 s373330  studs  3 20 сент. 16:53 vaporeon0
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0:
+total 1
+drwxr-xr-x  3 s373330  studs  3 20 сент. 16:53 garbodor
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor:
+total 1
+drwxr-x---  3 s373330  studs  3 20 сент. 16:53 vaporeon0
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0:
+total 1
+drwxr-xr-x  3 s373330  studs  3 20 сент. 16:53 garbodor
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor:
+total 1
+drwxr-x---  3 s373330  studs  3 20 сент. 16:53 vaporeon0
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0:
+total 1
+drwxr-xr-x  3 s373330  studs  3 20 сент. 16:53 garbodor
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor:
+total 1
+drwxr-x---  3 s373330  studs  3 20 сент. 16:53 vaporeon0
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0:
+total 1
+drwxr-xr-x  3 s373330  studs  3 20 сент. 16:53 garbodor
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor:
+total 1
+drwxr-x---  3 s373330  studs  3 20 сент. 16:53 vaporeon0
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0:
+total 1
+drwxr-xr-x  3 s373330  studs  3 20 сент. 16:53 garbodor
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor:
+total 1
+drwxr-x---  3 s373330  studs  3 20 сент. 16:53 vaporeon0
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0:
+total 1
+drwxr-xr-x  3 s373330  studs  3 20 сент. 16:53 garbodor
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor:
+total 1
+drwxr-x---  3 s373330  studs  3 20 сент. 16:53 vaporeon0
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0:
+total 1
+drwxr-xr-x  3 s373330  studs  3 20 сент. 16:53 garbodor
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor:
+total 1
+drwxr-x---  3 s373330  studs  3 20 сент. 16:53 vaporeon0
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0:
+total 1
+drwxr-xr-x  3 s373330  studs  3 20 сент. 16:53 garbodor
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor:
+total 1
+drwxr-x---  3 s373330  studs  3 20 сент. 16:53 vaporeon0
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0:
+total 1
+drwxr-xr-x  3 s373330  studs  3 20 сент. 16:53 garbodor
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor:
+total 1
+drwxr-x---  3 s373330  studs  3 20 сент. 16:53 vaporeon0
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0:
+total 1
+drwxr-xr-x  3 s373330  studs  3 20 сент. 16:53 garbodor
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor:
+total 1
+drwxr-x---  2 s373330  studs  2 20 сент. 16:53 vaporeon0
+
+./vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0/garbodor/vaporeon0:
+total 0
