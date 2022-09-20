@@ -30,40 +30,40 @@ touch golurk
 mkdir froslass
 cd ..
 cd butterfree3
-echo "Õîäû  Ancientpower Body Slam Dark Pulse Double-Edge Earth
+echo "Ð¥Ð¾Ð´Ñ‹  Ancientpower Body Slam Dark Pulse Double-Edge Earth
 Power Iron Defense Iron Head Iron Tail Mud-Slap Outrage Sleep Talk
 Snore Spite Stealth Rock Superpower Uproar" >> larvitar
-echo "Âîçìîæíîñòè
+echo "Ð’Ð¾Ð·Ð¼Ð¾Ð¶Ð½Ð¾ÑÑ‚Ð¸
 Overland=3 Jump=1 Power=4 Intelligence=4
 Sinker=0" >> boldore
-echo "Ñïîñîáíîñòè Smokescreen Ember Quick Attack Flame
+echo "Ð¡Ð¿Ð¾ÑÐ¾Ð±Ð½Ð¾ÑÑ‚Ð¸ Smokescreen Ember Quick Attack Flame
 Wheel Defense Curl Swift Flame Charge Lava Plume Flamethrower Rollout
 Double-Edge Eruption" >> typhlosion
 cd ..
 cd flygon7
-echo "Õîäû Bind Double-Edge Gastro Acid
+echo "Ð¥Ð¾Ð´Ñ‹ Bind Double-Edge Gastro Acid
 Giga Drain Knock Off Secret Power Seed Bomb Sleep Talk Snore Sucker
 Punch Synthesis Worry Seed" >> bellsprout
 echo "satk=5 sdef=6
 spd=2" >> cleffa
 echo "satk=9 sdef=6 spd=6" >> combusken
-echo "Õîäû Ancientpower Body
+echo "Ð¥Ð¾Ð´Ñ‹ Ancientpower Body
 Slam Brine Double-Edge Earth Power Giga Drain Icy Wind Iron Defense
 Knock Off Rollout Sleep Talk Snore Stealth Rock Water
 Pulse" >> kabuto
-echo "Ñïîñîáíîñòè  Overcharge Static Cute
+echo "Ð¡Ð¿Ð¾ÑÐ¾Ð±Ð½Ð¾ÑÑ‚Ð¸  Overcharge Static Cute
 Charm" >> flaaffy
 cd ..
 echo "weight=573.2 height=67.0 atk=14 def=13" >> gigalith3
-echo "Òèï
-äèåòû  Terravore" >> golem3
-echo "Âîçìîæíîñòè  Overland=4 Jump=3 Power=3
+echo "Ð¢Ð¸Ð¿
+Ð´Ð¸ÐµÑ‚Ñ‹  Terravore" >> golem3
+echo "Ð’Ð¾Ð·Ð¼Ð¾Ð¶Ð½Ð¾ÑÑ‚Ð¸  Overland=4 Jump=3 Power=3
 Intelligence=3 Sinker=0" >> shieldon3
 cd vaporeon0
-echo "Òèï ïîêåìîíà  ROCK
+echo "Ð¢Ð¸Ð¿ Ð¿Ð¾ÐºÐµÐ¼Ð¾Ð½Ð°  ROCK
 NONE" >> roggenrola
 echo "satk=8 sdef=7 spd=3" >> oddish
-echo "Ðàçâèòûå ñïîñîáíîñòè  No
+echo "Ð Ð°Ð·Ð²Ð¸Ñ‚Ñ‹Ðµ ÑÐ¿Ð¾ÑÐ¾Ð±Ð½Ð¾ÑÑ‚Ð¸  No
 Guard" >> golurk
 
 #2
