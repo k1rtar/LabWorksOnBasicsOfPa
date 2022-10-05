@@ -97,10 +97,9 @@ chmod 046 golurk
 chmod 751 froslass
 
 #3
-
 ln gigalith3 flygon7/cleffagigalith
 ln -s flygon7 Copy_98
-ln -s golem3 flygon7/flaaffygolem
+ln -s ../golem3 flygon7/flaaffygolem
 cd vaporeon0
 chmod u=rwx,g=rwx,o=rwx garbodor
 chmod u=rwx,g=rwx,o=rwx froslass
@@ -118,12 +117,12 @@ cat shieldon3>flygon7/cleffashieldon
 #4
 
 wc -l **/*r | sort -n -r 2>/dev/null
-ls -R -u -l 2>/dev/null | grep *ga* | head -n 2 
-cat -n shieldon3 | grep -i *e
+ls -R -u -l 2>/dev/null | grep ga | head -n 2 
+cat -n shieldon3 | grep -i "e$"
 cd flygon7 
-cat combusken kabuto flaaffy | grep *me*
+cat combusken kabuto flaaffy | grep me
 cd ..
-ls -R -t c* | head -n 3
+ls -R -t| grep "^c" | head -n 3 
 cd flygon7
 wc -l **/* | sort -n -r
 
